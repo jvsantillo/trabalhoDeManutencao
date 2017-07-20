@@ -13,6 +13,8 @@ Conexão com a internet
 
 * [Bizagi](https://www.bizagi.com/pt) -  Modelador de BPM
 
+* [Microsoft Word](https://products.office.com/pt-br/word) - Editor de Texto Local
+
 ## Contribuições
 
 * **Christiano Teixeira** - (https://github.com/christianotx)
@@ -25,7 +27,7 @@ Conexão com a internet
 
 * **Caio Romão** - (https://github.com/caioromao)
 
-* **Guilherme Caixeta** - (To do)
+* **Guilherme Caixeta** - (https://github.com/guicaixeta)
 
 * **Higor Quintão** - (https://github.com/higorquintao)
 
