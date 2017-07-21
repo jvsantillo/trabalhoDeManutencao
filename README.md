@@ -15,6 +15,12 @@ Conexão com a internet
 
 * [Microsoft Word](https://products.office.com/pt-br/word) - Editor de Texto Local
 
+## Arquivos fonte
+
+* [Documentos Google] https://docs.google.com/document/d/1xpmv2YnnWx6lIyRkcT19jOYkINWysEBf5-6K0lrBF4w/edit -  Arquivo compartilhado que contém a definição do processo
+
+* [Trello] https://trello.com/b/KkSJSWcO/trabalho-de-manuten%C3%A7%C3%A3o -  Quadro contendo as atividades a serem realizadas
+
 ## Contribuições
 
 * **Christiano Teixeira** - (https://github.com/christianotx)
