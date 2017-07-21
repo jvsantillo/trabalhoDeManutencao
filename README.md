@@ -6,6 +6,7 @@ O escopo do trabalho é o de definição e execução de um processo de Manuten�
 ## Pré-Requisitos
 
 Conexão com a internet
+Computador Pessoal com navegador ou sistema de gerenciamento de arquivos
 
 ## Construído com
 
